@@ -1,0 +1,55 @@
+body{
+  background-color:#011F3F;
+}
+
+h1{
+  font-family: 'DotGothic16', sans-serif;
+  color: #FEF2BF;
+  text-align : center;
+  font-weight: bold;
+  font-size: 4rem;
+  margin: 5rem;
+  cursor: pointer;
+}
+
+.tile{
+  display:inline-block;
+  width: 13rem;
+  height: 13rem;
+  background-color: #ffffff;
+  margin:2rem;
+  border:0.5rem solid #000000;
+  border-radius: 20%;
+  cursor: pointer;
+}
+
+.green{
+  background-color: green;
+}
+
+.red{
+  background-color: red;
+}
+
+.yellow{
+  background-color: yellow;
+}
+
+.blue{
+  background-color: blue;
+}
+
+.row{
+  margin-left: 0;
+  margin-right:0;
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
+
+.game_over{
+  background-color: red;
+  opacity:0.2;
+}
