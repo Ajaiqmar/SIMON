@@ -1,15 +1,12 @@
-# SIMON
-SIMON IS A REPLICA OF THE SIMON, AN ELECTRONIC GAME OF MEMORY SKILL INVENTED BY RALPH H. BAER AND HOWARD J. MORRISON.
+<img src="IMG/banner.png" />
 
-RULES : 
-1. PRESS ANY KEY OR PRESS ON THE HEADING TO START THE GAME.
-2. ON EACH LEVEL, A KEY WILL BE PRESSED BY THE COMPUTER.
-3. YOUR TASK IS TO MEMORISE ALL THE KEYS THAT HAVE BEEN PRESSED FROM THE LEVEL 1 TILL LEVEL N SEQUENTIALLY AND PRESS THEM.
-4. IF YOUR SEQUENCE IS CORRECT, YOU WILL MOVE ONTO THE NEXT LEVEL. ELSE YOU WILL START FROM THE BEGINNING.
+<h2> 🧩 SIMON </h2>
+Basically, The <a href="https://ajaiqmar.github.io/SIMON/">SIMON</a> 🧩 Application is a Web application which is built during my Web Development Bootcamp with Angela Yu as mentor. It was really a Informative Journey.
 
-TECHNOLOGY STACK :
-1. HTML
-2. CSS
-3. BOOTSTRAP
-4. JAVASCRIPT
-5. jQuery
+<h2> 📱TECHNOLOGY STACK </h2>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"><img src="https://img.shields.io/badge/HTML-%20-brightgreen" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-%20-red" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JS-%20-blue" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JQuery-%20-yellow" /></a>
+
+
